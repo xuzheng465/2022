@@ -58,6 +58,6 @@ func changeSlice(slice []int) {
 func inspectSlice(slice []string) {
 	fmt.Printf("Length[%d] Capacity[%d]\n", len(slice), cap(slice))
 	for i, s := range slice {
-		fmt.Printf("[%d] %p %s\n", i, &slice[i], s)
+		fmt.Printf("[%d] %p %patterns.go\n", i, &slice[i], s)
 	}
 }
