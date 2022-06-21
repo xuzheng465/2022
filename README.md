@@ -15,4 +15,15 @@ https://www.conduktor.io/kafka/kafka-topics-cli-tutorial
 
 ### Shell Commands
 
+```sh
+# if on mac
+brew install coreutils
+gsed
+gcut
+```
+
 将CSV文件的某一列（比如，第四列）变成大写字母
+
+```shell
+gsed -i 's/[^,]*/\U&/4' extracted_data.csv
+```
