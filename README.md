@@ -36,3 +36,6 @@ gsed -i 's/[^,]*/\U&/4' extracted_data.csv
 
 ## 文章
 
+| 文章名称 | 添加日期 | type | 备注 |
+| ------- | ------- | ---- | ---- |
+| [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) | 2022-06-22 |  | 文档 |
