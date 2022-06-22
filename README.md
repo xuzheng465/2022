@@ -10,10 +10,10 @@ Log myself. Inspired by yihong0618
 https://www.conduktor.io/kafka/kafka-topics-cli-tutorial
 
 
-### iOS
+## iOS
 [安装xcode的正确姿势](https://www.notion.so/Xcode-dfbe2d934ff84b2d84e34ffceef56fe0#afcac016740d4f90878c6020254f51aa)
 
-### Shell Commands
+## Shell Commands
 
 ```sh
 # if on mac
@@ -27,3 +27,12 @@ gcut
 ```shell
 gsed -i 's/[^,]*/\U&/4' extracted_data.csv
 ```
+
+## 博客
+| 博客名称 |添加日期 | type | 备注 |
+| ---- | ---- | ---- | ---- |
+|[GeekPlux](https://geekplux.com/posts)|2022-06-22|可视化|.|
+
+
+## 文章
+
