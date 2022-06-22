@@ -28,6 +28,16 @@ gcut
 gsed -i 's/[^,]*/\U&/4' extracted_data.csv
 ```
 
+## 遇到的问题
+
+[Kernel Error in Anaconda Python Jupyter Notebook](https://stackoverflow.com/questions/59243930/kernel-error-in-anaconda-python-jupyter-notebook)
+
+```sh
+conda install ipykernel
+ipython kernel install --name <env_name> --user 
+```
+
+
 ## 博客
 | 博客名称 |添加日期 | type | 备注 |
 | ---- | ---- | ---- | ---- |
