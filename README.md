@@ -42,6 +42,7 @@ ipython kernel install --name <env_name> --user
 | 博客名称 |添加日期 | type | 备注 |
 | ---- | ---- | ---- | ---- |
 |[GeekPlux](https://geekplux.com/posts)|2022-06-22|可视化|.|
+|[Therapy for Leetcode Warriors](https://leetcodetherapy.com/)|2022-06-23| 面试 | |
 
 
 ## 文章
@@ -51,3 +52,4 @@ ipython kernel install --name <env_name> --user
 | [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) | 2022-06-22 |  | 文档 |
 | [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) | 2022-06-22 |  | 文档 |
 | [Vocabulary as a Meta Mental Model](https://neilkakkar.com/vocabulary-mental-model.html) | 2022-06-22 |  | 词汇 |
+|[Avoid Leetcode Anxiety - it's not real](https://leetcodetherapy.com/leetcode-anxiety)|2022-06-23| | 刷题 |
