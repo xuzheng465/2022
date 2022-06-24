@@ -11,6 +11,35 @@
 
 |Type|Description|
 |----|----|
-|TODO|Leetcode 4道链表|
-|DONE||
+|TODO|Leetcode 4道链表<br />iOS lec2 看完<br />Spark week 5 看完|
+|DONE|iOS lec2 看完|
+
+
+
+## 06-25 Sat
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
+
+
+
+## 06-26 Sun
+
+| Type | Description |
+| ---- | ----------- |
+| TODO | 周报        |
+| DONE |             |
+
+
+
+
+
+## 06-27 Monday
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
 
