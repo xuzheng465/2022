@@ -12,16 +12,16 @@
 |Type|Description|
 |----|----|
 |TODO|Leetcode 4道链表<br />iOS lec2 看完<br />Spark week 5 看完|
-|DONE|iOS lec2 看完|
+|DONE|iOS lec2 看完<br />Spark Week 5 看完<br />Leetcode题没写|
 
 
 
 ## 06-25 Sat
 
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
+| Type | Description                       |
+| ---- | --------------------------------- |
+| TODO | Leetcode 8道题<br />iOS lec 3看完 |
+| DONE |                                   |
 
 
 
