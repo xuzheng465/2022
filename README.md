@@ -44,13 +44,16 @@ ipython kernel install --name <env_name> --user
 | ---- | ---- | ---- | ---- |
 |[GeekPlux](https://geekplux.com/posts)|2022-06-22|可视化|.|
 |[Therapy for Leetcode Warriors](https://leetcodetherapy.com/)|2022-06-23| 面试 | |
+|[AJ&Smart](https://www.youtube.com/c/AJSmart)|2022-6-25| UI/UX | 视频 |
 
 
 ## 文章
 
-| 文章名称 | 添加日期 | type | 备注 |
-| ------- | ------- | ---- | ---- |
-| [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) | 2022-06-22 |  | 文档 |
-| [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) | 2022-06-22 |  | 文档 |
-| [Vocabulary as a Meta Mental Model](https://neilkakkar.com/vocabulary-mental-model.html) | 2022-06-22 |  | 词汇 |
-|[Avoid Leetcode Anxiety - it's not real](https://leetcodetherapy.com/leetcode-anxiety)|2022-06-23| | 刷题 |
+| 文章名称 | 添加日期 | type | 备注 | status |
+| ------- | ------- | ---- | ---- | ------- |
+| [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) | 2022-06-22 |  | 文档 | TODO |
+| [Design Docs, Markdown, and Git](https://caitiem.com/2020/03/29/design-docs-markdown-and-git/) | 2022-06-22 |  | 文档 | TODO |
+| [Vocabulary as a Meta Mental Model](https://neilkakkar.com/vocabulary-mental-model.html) | 2022-06-22 |  | 词汇 | TODO |
+|[Avoid Leetcode Anxiety - it's not real](https://leetcodetherapy.com/leetcode-anxiety)|2022-06-23| | 刷题 | DOING |
+|[程序员软技能](https://programmer-soft-skills.vercel.app/)|2022-06-26| 讲义 |  | DONE ✅ |
+|知识工作者的深度工作系统 [Part I](https://twitter.com/Tisoga/status/1515663828536598528) [Park II](https://twitter.com/Tisoga/status/1516040155852804098)|2022-06-26|  |  | TODO |

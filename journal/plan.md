@@ -21,7 +21,7 @@
 | Type | Description                       |
 | ---- | --------------------------------- |
 | TODO | Leetcode 8道题<br />iOS lec 3看完 |
-| DONE |                                   |
+| DONE | None                              |
 
 
 
@@ -36,10 +36,66 @@
 
 
 
-## 06-27 Monday
+## 06-27 Mon
 
 | Type | Description |
 | ---- | ----------- |
 | TODO |             |
 | DONE |             |
+
+
+
+## 06-28 Tue
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
+
+
+
+## 06-29 Wed
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
+
+
+
+## 06-30 Thu
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
+
+
+
+## 07-01 Fri
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
+
+
+
+## 07-02 Sat
+
+| Type | Description |
+| ---- | ----------- |
+| TODO |             |
+| DONE |             |
+
+
+
+## 07-03 Sun
+
+| Type | Description |
+| ---- | ----------- |
+| TODO | 周报        |
+| DONE |             |
+
+
 
