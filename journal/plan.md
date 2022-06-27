@@ -34,68 +34,17 @@
 
 
 
-
-
-## 06-27 Mon
-
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
-
-
-
-## 06-28 Tue
-
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
-
-
-
-## 06-29 Wed
-
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
-
-
-
-## 06-30 Thu
-
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
-
-
-
-## 07-01 Fri
-
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
-
-
-
-## 07-02 Sat
-
-| Type | Description |
-| ---- | ----------- |
-| TODO |             |
-| DONE |             |
-
-
-
-## 07-03 Sun
-
-| Type | Description |
-| ---- | ----------- |
-| TODO | 周报        |
-| DONE |             |
+| Date         | TODO                                             | DONE |
+| ------------ | ------------------------------------------------ | ---- |
+| 22-06-07 Mon | IBM DE course<br />iOS lec 3<br />leetcode 2道题 |      |
+| 06-28 Tue    |                                                  |      |
+| 06-29 Wed    |                                                  |      |
+| 06-30 Thu    |                                                  |      |
+| 07-01 Fri    |                                                  |      |
+| 07-02 Sat    |                                                  |      |
+| 07-03 Sun    |                                                  |      |
+|              |                                                  |      |
+| 06-28 Tue    |                                                  |      |
 
 
 
