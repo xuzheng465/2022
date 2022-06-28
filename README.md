@@ -57,3 +57,4 @@ ipython kernel install --name <env_name> --user
 |[Avoid Leetcode Anxiety - it's not real](https://leetcodetherapy.com/leetcode-anxiety)|2022-06-23| | 刷题 | DOING |
 |[程序员软技能](https://programmer-soft-skills.vercel.app/)|2022-06-26| 讲义 |  | DONE ✅ |
 |知识工作者的深度工作系统 [Part I](https://twitter.com/Tisoga/status/1515663828536598528) [Park II](https://twitter.com/Tisoga/status/1516040155852804098)|2022-06-26|  |  | TODO |
+|[Kindle \| 使用 Calibre 移除 Kindle 电子书的 DRM](https://divineengine.net/article/how-to-remove-drm-from-kindle-books-with-calibre/)|2022-06-28| | | DONE |
