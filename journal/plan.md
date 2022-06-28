@@ -34,17 +34,17 @@
 
 
 
-| Date         | TODO                                             | DONE                    |
-| ------------ | ------------------------------------------------ | ----------------------- |
-| 22-06-07 Mon | IBM DE course<br />iOS lec 3<br />leetcode 2道题 | iOS lec3<br />DE course |
-| 06-28 Tue    |                                                  |                         |
-| 06-29 Wed    |                                                  |                         |
-| 06-30 Thu    |                                                  |                         |
-| 07-01 Fri    |                                                  |                         |
-| 07-02 Sat    |                                                  |                         |
-| 07-03 Sun    |                                                  |                         |
-|              |                                                  |                         |
-|              |                                                  |                         |
+| Date         | TODO                                             | DONE                                                 |
+| ------------ | ------------------------------------------------ | ---------------------------------------------------- |
+| 22-06-07 Mon | IBM DE course<br />iOS lec 3<br />leetcode 2道题 | iOS lec3<br />DE course                              |
+| 06-28 Tue    | iOS lec 4<br />leetcode 2道题                    | 更新pixel 3 XL<br />下载Kindle电子书<br />✅iOS lec 4 |
+| 06-29 Wed    |                                                  |                                                      |
+| 06-30 Thu    |                                                  |                                                      |
+| 07-01 Fri    |                                                  |                                                      |
+| 07-02 Sat    |                                                  |                                                      |
+| 07-03 Sun    |                                                  |                                                      |
+|              |                                                  |                                                      |
+|              |                                                  |                                                      |
 
 
 
