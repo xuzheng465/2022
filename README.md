@@ -11,6 +11,14 @@ Log myself. Inspired by yihong0618
 https://www.conduktor.io/kafka/kafka-topics-cli-tutorial
 
 
+
+[Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)
+
+[Pandas API Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
+
+
+
+
 ## iOS
 [安装xcode的正确姿势](https://www.notion.so/Xcode-dfbe2d934ff84b2d84e34ffceef56fe0#afcac016740d4f90878c6020254f51aa)
 
@@ -69,4 +77,10 @@ ipython kernel install --name <env_name> --user
 | [CS 168: The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/) | 06-28    | 算法     | S    | TODO   |
 | [CS193P - iOS dev](https://cs193p.sites.stanford.edu/)       | 06-28    | iOS      | S    | DOING  |
 |                                                              |          |          |      |        |
+
+
+
+| Book                                                         | 添加日期 | 类型 | 备注 | Status |
+| ------------------------------------------------------------ | -------- | ---- | ---- | ------ |
+| [Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro.html) | 06-28    |      |      |        |
 
