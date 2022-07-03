@@ -66,6 +66,16 @@ ipython kernel install --name <env_name> --user
 |[程序员软技能](https://programmer-soft-skills.vercel.app/)|2022-06-26| 讲义 |  | DONE ✅ |
 |知识工作者的深度工作系统 [Part I](https://twitter.com/Tisoga/status/1515663828536598528) [Park II](https://twitter.com/Tisoga/status/1516040155852804098)|2022-06-26|  |  | TODO |
 |[Kindle \| 使用 Calibre 移除 Kindle 电子书的 DRM](https://divineengine.net/article/how-to-remove-drm-from-kindle-books-with-calibre/)|2022-06-28| | | DONE |
+|[如何高效学习英语](https://byoungd.gitbook.io/english-level-up-tips/)|2022-07-02| | | TODO |
+
+## 视频
+
+| Name                                                         | Date       | type         | comment | Status |
+| ------------------------------------------------------------ | ---------- | ------------ | ------- | ------ |
+| [How to learn Data Science FASTER](https://www.youtube.com/watch?v=lpSw_RAPmgc) | 2022-07-03 | data science |         | DONE   |
+|                                                              |            |              |         |        |
+
+
 
 
 
@@ -75,7 +85,7 @@ ipython kernel install --name <env_name> --user
 | ------------------------------------------------------------ | -------- | -------- | ---- | ------ |
 | [Data 100](https://ds100.org/sp22/) [su22](https://ds100.org/su22/) | 06-28    | 数据科学 | UCB  | DOING  |
 | [CS 168: The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/) | 06-28    | 算法     | S    | TODO   |
-| [CS193P - iOS dev](https://cs193p.sites.stanford.edu/)       | 06-28    | iOS      | S    | DOING  |
+| [CS193P - iOS dev](https://cs193p.sites.stanford.edu/)       | 06-28    | iOS      | S    | HOLD   |
 |                                                              |          |          |      |        |
 
 
