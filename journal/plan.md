@@ -1,3 +1,9 @@
+https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
+
+
+
+
 ## 06-23 Thu
 
 |Type|Description|
@@ -44,8 +50,9 @@
 | 07-02 Sat    |                                                              |                                                      |
 | 07-03 Sun    |                                                              |                                                      |
 | 07-04 Mon    | Google Data Analytics w1<br />IBM DE<br />2道题<br />        | GDA w1, w2, w3                                       |
-| 07-05 Tue    | GDA w3,w4,w5<br />IBM-DE<br />2道题                          |                                                      |
-|              |                                                              |                                                      |
+| 07-05 Tue    | GDA w3,w4,w5<br />IBM-DE::x:<br /> 2道题::x:                 | GDA w3                                               |
+| 07-06 Wed    | Data 100 lec 3 :white_check_mark:                            |                                                      |
+| 07-07 Thu    | GDA Ask w1<br />IBM-DE<br />:white_check_mark:2道题          |                                                      |
 
 
 
