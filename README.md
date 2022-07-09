@@ -81,12 +81,25 @@ ipython kernel install --name <env_name> --user
 
 ## Hording
 
-| 课程                                                         | 添加日期 | 类型     | 备注 | Status |
-| ------------------------------------------------------------ | -------- | -------- | ---- | ------ |
-| [Data 100](https://ds100.org/sp22/) [su22](https://ds100.org/su22/) | 06-28    | 数据科学 | UCB  | DOING  |
-| [CS 168: The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/) | 06-28    | 算法     | S    | TODO   |
-| [CS193P - iOS dev](https://cs193p.sites.stanford.edu/)       | 06-28    | iOS      | S    | HOLD   |
-|                                                              |          |          |      |        |
+Data Science - DS
+
+Machine Learning - ML
+
+Algorithm - Algo
+
+
+
+| 课程                                                         | 添加日期 | 类型             | 备注     | Status |
+| ------------------------------------------------------------ | -------- | ---------------- | -------- | ------ |
+| [Data 100](https://ds100.org/sp22/) [su22](https://ds100.org/su22/) | 06-28    | DS               | UCB      | DOING  |
+| [CS 168: The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/) | 06-28    | 算法             | Stanford | TODO   |
+| [CS193P - iOS dev](https://cs193p.sites.stanford.edu/)       | 06-28    | iOS              | Stanford | HOLD   |
+| **[Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)** | 07-08    | DS               | MS       | TODO   |
+| 6.006                                                        | 07-08    | Algo             |          |        |
+| CS170 Algo [website](https://cs170.org/)   [b站视频](https://www.bilibili.com/video/BV1BU4y1b7RK) | 07-08    | 算法             | UCB      | TODO   |
+| [CS61A](https://cs61a.org/)                                  | 07-08    | Basic            | UCB      | :check |
+| 6.002 [video](https://www.youtube.com/watch?v=V_TulH374hw&list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)  [website](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/lecture-slides-and-files/) | 07-08    | DS               | MIT      |        |
+| [CS 189 Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/) | 07-08    | Machine Learning |          |        |
 
 
 
